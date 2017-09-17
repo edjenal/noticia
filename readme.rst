@@ -1,9 +1,9 @@
 ###################
-Projeto feito para a 2ª Fase
+Projeto para a 2ª Fase
 ###################
 
 ###################
-Projeto feito com CodeIgniter, Bootstrap, jQuery.
+Feito com o Framework PHP CodeIgniter, Bootstrap, jQuery.
 ###################
 
 ###################
